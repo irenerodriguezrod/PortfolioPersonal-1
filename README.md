@@ -1,35 +1,52 @@
-# Portfolio personal - Irene Rodríguez
+# Portfolio Personal | Irene Rodríguez Rodríguez
 
-## 💁🏻‍♀️ Sobre mí
-Hola! Bienvenidos a mi portfolio. Aquí podréis encontrar un resumen de mis proyectos más recientes y las tecnologías empleadas.
+Portfolio personal desarrollado para presentar mi trayectoria profesional, los proyectos más relevantes en los que he participado y las tecnologías empleadas durante mi formación y desarrollo como desarrolladora Full Stack.
 
-----
-## 🛠️ Tecnologías empleadas
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,postgres,php,git,docker,linux,windows" height="50" alt="Tecnologías" />
-</div>
+## Sobre el proyecto
+Este repositorio alberga el código fuente del portfolio y se mantiene en constante evolución mediante la incorporación de nuevos proyectos, mejoras visuales y funcionalidades que reflejan mi crecimiento profesional.
 
-----
-## Proyectos reciente
-<div align="left"><a href="https://github.com/irenerodriguezrod/116LMSGIProyectoLMSGI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=irenerodriguezrod&repo=116LMSGIProyectoLMSGI"></a>
-</div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=irenerodriguezrod&repo=116LMSGIProyectoDAW)](https://github.com/irenerodriguezrod/116LMSGIProyectoDAW)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=irenerodrod&repo=sweethouse)](https://github.com/irenerodrod/sweethouse)
+---
+## Vista previa
+<p align="center">
+    <img src="/public/media/preview.png" alt="Vista previa del portfolio" width="900">
+</p>
 
 ----
-## 📩 Contacto
-- [Correo electrónico](mailto:rodrodirene3124@gmail.com)
-- [Teléfono](tel:+34609818876)
-----
+## Objetivos del proyecto
+Este proyecto tiene como finalidad:
+* Presentar una visión global de mi experiencia y evolución como desarrolladora, abarcando tanto el desarrollo frontend como backend.
+* Reunir en un único espacio los proyectos académicos y personales más representativos.
+* Mostrar las tecnologías y herramientas utilizadas en cada desarrollo.
+* Mantener una presencia profesional y actualizada en GitHub.
 
-## Modificaciones<a name="Modificaciones"></a>
-* **Primera modificación** - 03 de agosto de 2024
-  * Primera versión del portfolio
-  * Realizada con HTML5, CSS3, JavaScript
-  * Se desarrolló entre el 3 de agosto de 2024 y el 8 de agosto de 2024 
-* **Segunda versión** - 10 de junio de 2025
-  * Cambio de estética visual de la web, se ha modificado el CSS para hacerlo más cómodo a nivel visual
-  * Mejoradas las redes sociales y el contacto(LinkedIn y GitHub)
+---
+## Historial de versiones
+### Versión 3.0 (Actual)
+- Rediseño de la interfaz.
+- Optimización responsive.
+- Nuevos proyectos.
+- Mejoras de rendimiento y accesibilidad.
+### Versiones anteriores
+- **v2.0:** Actualización del diseño y reorganización del contenido.
+- **v1.0:** Primera versión del portfolio.
+
+---
+## Características
+
+- Diseño responsive.
+- Navegación intuitiva.
+- Presentación de proyectos destacados.
+- Información profesional actualizada.
+- Enlaces a repositorios y redes profesionales.
+
+---
+## Licencia
+Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` para obtener más información.
+
+---
+## Autora
+
+**Irene Rodríguez Rodríguez**
+
+Desarrolladora Full Stack en formación  
+Estudiante de Desarrollo de Aplicaciones Web (DAW)
